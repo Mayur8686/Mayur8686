@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mayur Shinde</h1>
 
-<!--
-**Mayur8686/Mayur8686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI/ML Engineer • Full Stack Developer • FastAPI • React • Firebase
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+🎓 B.Tech AIML Student <br>
+🚀 Building AI Products & Solving Real-World Problems <br>
+🏆 Hackathon Enthusiast | Open Source Learner
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning
+- 🌱 Currently learning **Generative AI, FastAPI, Docker & AWS**
+- 💡 Passionate about AI, Computer Vision and Full Stack Development
+- 🏆 Participating in Hackathons and Building AI Products
+- 📫 Reach me at **mayurs.shinde4212@gmail.com**
+
+---
+
+## 🚀 Current Projects
+
+- 🤖 CampusOS AI
+- 💰 Saarthi — Find Pathway to Your Interests
+- 🏫 Faculty Management Portal
+- 🛒 OMR — Code4EdTech
