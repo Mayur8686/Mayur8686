@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayur Shinde</h1>
+<h1 align="center">Hi , I'm Mayur Shinde</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer;Full+Stack+Developer;Hackathon+Builder;FastAPI+%7C+React+%7C+Firebase;Building+AI+Products+for+Real-World+Problems" alt="Typing SVG" />
@@ -82,7 +82,7 @@
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="linkedin.com/in/mayur-shinde-967620327">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
