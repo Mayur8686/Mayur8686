@@ -90,9 +90,11 @@
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href=" https://portfolio-opal-five-28.vercel.app/ ">
-<img src="https://skillicons.dev/icons?i=vercel"/>
-</a>
+<p align="center">
+  <a href="https://portfolio-opal-five-28.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
+  </a>
+</p>
 
 </p>
 
