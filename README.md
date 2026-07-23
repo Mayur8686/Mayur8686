@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayur Shinde</h1>
+<h1 align="center">Hi , I'm Mayur Shinde</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+I'm+Mayur+Shinde;AI%2FML+Engineer;Full+Stack+Developer;Hackathon+Builder;Building+AI+Products" />
 </p>
