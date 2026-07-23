@@ -82,8 +82,8 @@
 
 <p align="center">
 
-<a href="linkedin.com/in/mayur-shinde-967620327">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/mayur-shinde-967620327/">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:mayurs.shinde4212@gmail.com">
