@@ -90,7 +90,7 @@
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href=" https://portfolio-opal-five-28.vercel.app/ ">
 <img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
